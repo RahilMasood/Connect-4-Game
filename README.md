@@ -33,5 +33,4 @@ It evaluates board positions based on:
 ## License
 
 This project is licensed under the MIT License
-Blocking opponent’s winning moves
 
