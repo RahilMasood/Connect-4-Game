@@ -1,4 +1,4 @@
-# Connect-4 AI — Human vs Machine
+# Connect-4 AI Game (Human vs Machine)
 
 **Connect-4 AI** is a full-stack web app that lets you play the classic **Connect-4** game against an intelligent AI opponent!  
 The frontend is built using **React.js**, while the backend runs a **Python AI engine** powered by the **Minimax algorithm with Alpha-Beta Pruning**.
