@@ -18,10 +18,20 @@ The frontend is built using **React.js**, while the backend runs a **Python AI e
 
 The AI analyzes possible future board states using the Minimax algorithm, with Alpha-Beta pruning to optimize search time.
 It evaluates board positions based on:
+- Number of 2-in-a-rows, 3-in-a-rows, and potential 4-connects
+- Center column preference (for strategic advantage)
+- Blocking opponent’s winning moves
+- Number of 2-in-a-rows, 3-in-a-rows, and potential 4-connects
+- Center column preference (for strategic advantage)
 
-Number of 2-in-a-rows, 3-in-a-rows, and potential 4-connects
+---
 
-Center column preference (for strategic advantage)
+## Demo:
 
+<img width="766" height="810" alt="Example" src="https://github.com/user-attachments/assets/d36623d9-6f5c-42e3-97a4-9f29cdacd20f" />
+
+## License
+
+This project is licensed under the MIT License
 Blocking opponent’s winning moves
 
